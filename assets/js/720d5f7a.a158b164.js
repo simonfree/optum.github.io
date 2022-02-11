@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoptum_github_io=self.webpackChunkoptum_github_io||[]).push([[4687],{3162:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/spark","name":"Spark","count":2,"permalink":"/blog/tags/spark"}')}}]);

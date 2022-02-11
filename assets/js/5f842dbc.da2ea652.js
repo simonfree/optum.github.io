@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoptum_github_io=self.webpackChunkoptum_github_io||[]).push([[7434],{394:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/kafka","name":"Kafka","count":2,"permalink":"/blog/tags/kafka"}')}}]);

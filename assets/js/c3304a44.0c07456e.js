@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoptum_github_io=self.webpackChunkoptum_github_io||[]).push([[8498],{165:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/etl","name":"ETL","count":3,"permalink":"/blog/tags/etl"}')}}]);

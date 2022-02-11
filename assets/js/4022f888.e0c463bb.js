@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoptum_github_io=self.webpackChunkoptum_github_io||[]).push([[5503],{1708:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/cloudevents","name":"cloudevents","count":1,"permalink":"/blog/tags/cloudevents"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoptum_github_io=self.webpackChunkoptum_github_io||[]).push([[2260],{9438:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/engineering","name":"Engineering","count":5,"permalink":"/blog/tags/engineering"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoptum_github_io=self.webpackChunkoptum_github_io||[]).push([[1872],{8213:function(u){u.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/aws-azure-s-3-cloud","name":"AWS Azure S3 Cloud","count":1,"permalink":"/blog/tags/aws-azure-s-3-cloud"}')}}]);

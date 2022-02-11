@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoptum_github_io=self.webpackChunkoptum_github_io||[]).push([[4456],{3292:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/data-streaming","name":"Data Streaming","count":1,"permalink":"/blog/tags/data-streaming"}')}}]);
